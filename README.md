@@ -1,10 +1,10 @@
 # HAGO (admin/mobile/pc)
 + 엠몬스타 전체 일정
-	https://docs.google.com/spreadsheets/d/1ZNsKeZrZAr2o6DdYGvnWOHJsOPCGyQJgjerCMU5jhUY/edit#gid=425404578
+	https://docs.google.com/spreadsheets/
 + 기획 구글드라이브 경로
-	https://drive.google.com/drive/u/0/folders/1-HE-Um50qzRwv_5oAQAbHGg6ZoT0u8Gb
+	https://drive.google.com/drive/
 + 디자인 구글드라이브 경로
-	https://drive.google.com/drive/u/0/folders/1NwEXWrjwoopuce7P0R1EykVFweSdWTo3
+	https://drive.google.com/drive/
 + 퍼블리싱 작업 리스트
 	- admin https://publish.mmonstar.co.kr/hago/shop_2021/admin/
 	- mobile https://publish.mmonstar.co.kr/hago/shop_2021/mobile/
