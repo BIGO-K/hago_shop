@@ -1,14 +1,12 @@
 # HAGO (admin/mobile/pc)
+_2021.02 ~ 2021.07_
 + 엠몬스타 전체 일정
-	https://docs.google.com/spreadsheets/
 + 기획 구글드라이브 경로
-	https://drive.google.com/drive/
 + 디자인 구글드라이브 경로
-	https://drive.google.com/drive/
 + 퍼블리싱 작업 리스트
-	- admin https://publish.mmonstar.co.kr/hago/shop_2021/admin/
-	- mobile https://publish.mmonstar.co.kr/hago/shop_2021/mobile/
-	- pc https://publish.mmonstar.co.kr/hago/shop_2021/pc/
+	- admin
+	- mobile
+	- pc
 <br><br>
 
 ## 작업환경
@@ -16,14 +14,12 @@
 	- SFTP의 **sftp.json** 파일설정
 		```
 		"name": "ftp",
-		"host": "1.xxx.xx.x2",
+		"host": "",
 		"protocol": "sftp",
 		"port": 8023,
-		"username": "mmon_publish",
+		"username": "",
 		"password": "비밀번호",
-		"remotePath": "/home/mmon_publish/html/hago/shop_2021/",(실서버)
-		"remotePath": "/home/mmon_publish/_merge/html/hago/shop_2021/",(FTP전달용)
-		"remotePath": "/home/mmon_publish/작업자/html/hago/shop_2021/",(서브 작업자 설정방식)
+		"remotePath": "",
 		"uploadOnSave": true,
 		...
 		"watcher": {
